@@ -1,0 +1,1 @@
+![Meta stock price plotted against HN sentiment](meta_stock.png "Meta Stock x HC sentiment")
