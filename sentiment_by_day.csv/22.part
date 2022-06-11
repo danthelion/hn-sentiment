@@ -1,0 +1,6 @@
+id,comments,datetime,sentiment
+31494281,you mean you’re <i>not</i> going to send $10 to the Red Cross after the next earthquake in a developing nation?,2022-05-24 16:36:04,NEGATIVE
+31494486,"Not every code is written with performance in mind. In fact, most aren&#x27;t. This alone gives much leeway for dynamic languages; if you can make more performant program easier to write, they can pay off even when their maximum performance is limited (this is my definition of &quot;reasonably performant&quot;). The exact amount of leeway will of course depend on circumstances but I guess 10x is a fair estimate, which many JIT implementations can reach---not just crazy beasts like JS engines.",2022-05-24 16:49:43,NEGATIVE
+31495347,"Why do we have to &#x27;re-invent&#x27; new words and present as something new for things that have been around for millennia?<p>I am all for exploration, but re-naming breaks the link to valuable historical material.",2022-05-24 17:56:41,NEGATIVE
+31499784,The comment you&#x27;re replying to didn&#x27;t imply otherwise.,2022-05-25 01:57:00,NEGATIVE
+31499934,"Homes today are cheaper than the 60s? The 60s where a single earner family, where the earner was a schoolteacher, could afford a house before having kids?",2022-05-25 02:25:08,NEGATIVE

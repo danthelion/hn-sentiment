@@ -1,0 +1,11 @@
+id,comments,datetime,sentiment
+31431539,"One of my favorite books!<p>Some years ago I bought a dozen extra copies to give away. Just last weekend I was hiking with a few friends. One mentioned that I&#x27;d given him a copy, and he started telling me stories from it. Especially what a revolution it was when you could communicate across the world in an instant.<p>We got to talking about the history of undersea cables. I mentioned a very cool interactive map of the current fiber cables and promised I would look it up and send him a link.<p>So, befor",2022-05-19 06:59:29,POSITIVE
+31432397,"How do they know much miles have been driven by a car? What if a person does it own car maintenance? Not sure, if that&#x27;s a much better approach",2022-05-19 09:19:36,NEGATIVE
+31433233,"Yes. It might have been addicting too back then but no one I knew of was checking news&#x2F;social networks 24&#x2F;7 and was always available online.. because these things did not exist in the way they do today.<p>You went online to do something specific: play, research something or whatever else and you were not distracted by 500 services fighting for your attention. It was a much healthier way of consuming.<p>edited: grammar",2022-05-19 11:42:48,POSITIVE
+31436068,"I have noticed this tendency as well.<p>To counteract it, I write exit-early code like this:<p><pre><code>    let foo_result = foo();
+    if let Err(e) = foo_result {
+        return Bar::Fail(e);
+    }
+    let foo_result = foo_result.unwrap();
+    ...</code></pre>",2022-05-19 15:35:05,NEGATIVE
+31441806,"&gt; Because of the deficit in stimulus, people with untreated ADHD are statistically much more likely to have a substance abuse disorder (SAD); but in many cases, treating their ADHD (with medication and cognitive behavioral therapy) has the side effect of treating their SAD<p>I feel like I am one of the rare people that developed a SAD from medically treating ADHD. It&#x27;s not from the intended effects of the medication, but from trying to treat the side-effects.",2022-05-20 00:04:00,NEGATIVE
