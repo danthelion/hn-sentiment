@@ -1,6 +1,0 @@
-id,comments,datetime,sentiment
-31347762,"This was a Cessna 208, not a 172. Possibly glass cockpit and definitely turboprop.<p>It would look more like this unless it has the glass cockpit of course:<p><a href=""https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;commons&#x2F;e&#x2F;ef&#x2F;Cessna_208_Caravan_I%2C_Seawings_%28Jet-Ops%29_AN1347237.jpg"" rel=""nofollow"">https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;commons&#x2F;e&#x2F;ef&#x2F;Cessna_2...</a>",2022-05-12 00:28:26,NEGATIVE
-31348459,can you even see out the front window with how low the seat is?,2022-05-12 02:14:03,NEGATIVE
-31349158,"On the contrary, labor mobility has declined precipitously since WWII, and this is a bad thing because it means people can&#x27;t move to where there is a better job for them",2022-05-12 04:04:15,NEGATIVE
-31349271,"I wonder if it&#x27;s because at high temperatures, you&#x27;re basically denaturing the proteins that cause the allergic reaction.",2022-05-12 04:25:20,NEGATIVE
-31349671,Is the Web version of Flutter still using canvas? I tried it a while back and it was just a canvas rendering everything. That makes SEO impossible. It&#x27;s also useless for accessibility&#x2F;screen readers. Please correct me if I am wrong.,2022-05-12 05:37:19,NEGATIVE

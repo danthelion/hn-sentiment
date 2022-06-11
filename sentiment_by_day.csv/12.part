@@ -1,7 +1,0 @@
-id,comments,datetime,sentiment
-31421173,"nitpick: `git commit -a` does not add untracked files:<p><pre><code>           -a, --all
-           Tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.</code></pre>",2022-05-18 10:47:15,NEGATIVE
-31422285,"It could as well be backed by nothing, but hot air.<p>Since the company is so evasive and has been for years nobody outside really knows.",2022-05-18 13:06:49,NEGATIVE
-31424184,"In pre-press and photography we&#x27;re used to ISO 3664:2009[0] which I believe establishes whitepoint brightness level between 80 and 120 cd&#x2F;m2. It should be added that it requires isolation from daylight and ambient illumination level near 80 lux (and a good monitor)... But even at 150 cd&#x2F;m2 in a room with controlled amounts of daylight, you should not be blinded by #000 on #fff.<p>[0] <a href=""https:&#x2F;&#x2F;www.iso.org&#x2F;standard&#x2F;43234.html"" rel=""nofollow"">https:&#x2F;&#x2F;www.iso",2022-05-18 15:45:48,NEGATIVE
-31425226,"In truth I kind of question the usefulness of &quot;higher level&quot; OKRs. They become too fuzzy and meaningless. Worse, I think it is almost impossible to come up with quantifiable key results that are directly influenced by the work of &quot;lower level&quot; OKRs.",2022-05-18 17:15:06,NEGATIVE
-31425888,That sounds like a one way ticket to anticompetitive lawsuits from the FTC,2022-05-18 18:14:51,NEGATIVE

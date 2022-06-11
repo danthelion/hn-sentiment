@@ -1,6 +1,0 @@
-id,comments,datetime,sentiment
-31481449,"A word of caution: Uber uses `zig cc` toolchain to compile C&#x2F;C++ code, not Zig language. Moreover, from the article itself:<p>&gt; &quot;Uber does not have any plans to use zig-the-language yet.&quot;",2022-05-23 16:49:05,NEGATIVE
-31481707,"Yes, the smoot",2022-05-23 17:05:13,POSITIVE
-31482462,"native UIs are generally slower than web, although at least it seems they are using the chromium 2D renderer Skia here",2022-05-23 17:52:39,NEGATIVE
-31486692,"AIUI (via npr?) the market is shifting anyway. Many, if not most users want fentanyl since it&#x27;s so much cheaper",2022-05-24 00:43:58,NEGATIVE
-31487333,The thing is: consumers don’t care about which job within the development cycle is the hardest or whatever else. They care that their software is relatively bug free. The industry as a whole has been cutting costs in QA and the games are buggy as all hell on release as a result with only a few exceptions. So maybe this QA unionization can save the industry from itself: from dumb dick measuring status games like the ones this comment thread is filled with and from the hubris required to charge 60-80 bucks fo,2022-05-24 02:22:36,NEGATIVE
